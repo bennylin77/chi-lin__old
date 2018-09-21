@@ -1,0 +1,264 @@
+{
+  "bootstrap/dist/css/bootstrap.min.css": [
+    {
+      "id": "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+      "name": "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "../style.css": [
+    {
+      "id": "./style.css",
+      "name": "./style.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "../../components/ImageAnnotationDemo.js": [
+    {
+      "id": "./components/ImageAnnotationDemo.js",
+      "name": "./components/ImageAnnotationDemo.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "classnames": [
+    {
+      "id": "./node_modules/classnames/index.js",
+      "name": "./node_modules/classnames/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/classnames/index.js",
+      "name": "./node_modules/classnames/index.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "lodash.isfunction": [
+    {
+      "id": "./node_modules/lodash.isfunction/index.js",
+      "name": "./node_modules/lodash.isfunction/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.isfunction/index.js",
+      "name": "./node_modules/lodash.isfunction/index.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "lodash.isobject": [
+    {
+      "id": "./node_modules/lodash.isobject/index.js",
+      "name": "./node_modules/lodash.isobject/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.isobject/index.js",
+      "name": "./node_modules/lodash.isobject/index.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "lodash.tonumber": [
+    {
+      "id": "./node_modules/lodash.tonumber/index.js",
+      "name": "./node_modules/lodash.tonumber/index.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.tonumber/index.js",
+      "name": "./node_modules/lodash.tonumber/index.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "popper.js": [
+    {
+      "id": "./node_modules/popper.js/dist/esm/popper.js",
+      "name": "./node_modules/popper.js/dist/esm/popper.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/popper.js/dist/esm/popper.js",
+      "name": "./node_modules/popper.js/dist/esm/popper.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "react-annotation-tool": [
+    {
+      "id": "./node_modules/react-annotation-tool/dist/bundle.js",
+      "name": "./node_modules/react-annotation-tool/dist/bundle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-annotation-tool/dist/bundle.js",
+      "name": "./node_modules/react-annotation-tool/dist/bundle.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "react-lifecycles-compat": [
+    {
+      "id": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "name": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "name": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./Arrow": [
+    {
+      "id": "./node_modules/react-popper/lib/Arrow.js",
+      "name": "./node_modules/react-popper/lib/Arrow.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-popper/lib/Arrow.js",
+      "name": "./node_modules/react-popper/lib/Arrow.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./Manager": [
+    {
+      "id": "./node_modules/react-popper/lib/Manager.js",
+      "name": "./node_modules/react-popper/lib/Manager.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-popper/lib/Manager.js",
+      "name": "./node_modules/react-popper/lib/Manager.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./Popper": [
+    {
+      "id": "./node_modules/react-popper/lib/Popper.js",
+      "name": "./node_modules/react-popper/lib/Popper.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-popper/lib/Popper.js",
+      "name": "./node_modules/react-popper/lib/Popper.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./Target": [
+    {
+      "id": "./node_modules/react-popper/lib/Target.js",
+      "name": "./node_modules/react-popper/lib/Target.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-popper/lib/Target.js",
+      "name": "./node_modules/react-popper/lib/Target.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "react-popper": [
+    {
+      "id": "./node_modules/react-popper/lib/react-popper.js",
+      "name": "./node_modules/react-popper/lib/react-popper.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-popper/lib/react-popper.js",
+      "name": "./node_modules/react-popper/lib/react-popper.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "reactstrap": [
+    {
+      "id": "./node_modules/reactstrap/dist/reactstrap.es.js",
+      "name": "./node_modules/reactstrap/dist/reactstrap.es.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/reactstrap/dist/reactstrap.es.js",
+      "name": "./node_modules/reactstrap/dist/reactstrap.es.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./../../../webpack/buildin/global.js": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "../../components/VideoAnnotationDemo.js": [
+    {
+      "id": "./components/VideoAnnotationDemo.js",
+      "name": "./components/VideoAnnotationDemo.js",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ]
+}
